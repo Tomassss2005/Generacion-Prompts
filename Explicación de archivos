@@ -1,2 +1,4 @@
--Hola profe buenas tardes, como está? En el repositorio se va a encontrar con dos archivos, el primero se ubica todas las respuestas pero hice utilicé un Try except para verificar si era algún error del código o de la solicitud.
-Y como no puede pagar entonces me quedé sin solicitudes hacia la APi. Y en el otro archivo es lo mismo pero sin hacer una solicitud. En caso de que no funcione lo corregiré para el proyecto final. Saludos!
+-Hola profe buenas tardes, como estás? En el repositorio se va a encontrar con dos archivos, en el primero se están todas las respuestas pero utilicé un Try except para verificar si me ponía algún error del código o de la solicitud.
+Y como no puede pagar para tener más tokens por algunas dificultades que tuve me quedé sin poder hacer solicitudes hacia la API. Por ende no pude verificar si anda bien o no el código o no.
+Igualmente cuando aún tenía solicitudes lo probé y funcionaba bien. Y el otro archivo es lo mismo pero sin hacer una solicitud.
+En caso de que no funcione lo corregiré para el proyecto final. Saludos!
